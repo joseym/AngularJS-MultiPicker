@@ -26,7 +26,7 @@ angular.module('picker', []).directive('multipick', function(){
 						} else {
 							value.push(date);
 						}
-						log(value);
+						console.log(value);
 						scope.$apply();
 					}
 				};

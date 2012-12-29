@@ -3,7 +3,7 @@ AngularJS-MultiPicker
 
 Angular JS Directive implementing MultiDatesPicker library.
 
-> MultiDatesPicker is the creation of @dubrox and its repo can be found [here](https://github.com/dubrox/Multiple-Dates-Picker-for-jQuery-UI)
+> MultiDatesPicker is the creation of [@dubrox](https://github.com/dubrox) and its repo can be found [here](https://github.com/dubrox/Multiple-Dates-Picker-for-jQuery-UI)
 
 This is an AngularJS directive which implements the above mentioned library to easily implement multi-datepickers into your AngularJS app.
 

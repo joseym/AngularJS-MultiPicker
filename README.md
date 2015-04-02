@@ -1,6 +1,8 @@
 AngularJS-MultiPicker
 =====================
 
+> __Update__ This is one of my earliest attempts at a directive and it's weak in a lot of areas. Feel free to fork and make it better. What we have here is simple and it solved the problem I was having.
+
 Angular JS Directive implementing MultiDatesPicker library.
 
 > MultiDatesPicker is the creation of [@dubrox](https://github.com/dubrox) and its repo can be found [here](https://github.com/dubrox/Multiple-Dates-Picker-for-jQuery-UI)
@@ -15,6 +17,6 @@ __Go get these!__
 - [jQuery UI](http://jqueryui.com/download/)
 - [MultiDatesPicker Plugin](https://github.com/dubrox/Multiple-Dates-Picker-for-jQuery-UI)
 
-For now an example can be found here: http://jsfiddle.net/joseym/pCCRM/19/
+For now an example can be found here: http://jsfiddle.net/joseym/nfhf58r7/
 
 More details to come.
